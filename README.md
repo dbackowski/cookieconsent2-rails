@@ -1,4 +1,4 @@
-# Cookieconsent2::Rails
+# Cookieconsent2::Rails [![Build Status](https://travis-ci.org/dbackowski/cookieconsent2-rails.svg?branch=master)](https://travis-ci.org/dbackowski/cookieconsent2-rails)
 
 Rails asset pipeline bundling of the Cookie Consent JavaScript plugin (https://silktide.com/tools/cookie-consent).
 
