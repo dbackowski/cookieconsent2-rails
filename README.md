@@ -18,6 +18,10 @@ Or install it yourself as:
 
     $ gem install cookieconsent2-rails
 
+In your application.js:
+
+    //= require cookieconsent
+
 ## Usage
 
 https://silktide.com/tools/cookie-consent
