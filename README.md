@@ -1,6 +1,6 @@
 # Cookieconsent2::Rails [![Build Status](https://travis-ci.org/dbackowski/cookieconsent2-rails.svg?branch=master)](https://travis-ci.org/dbackowski/cookieconsent2-rails)
 
-Rails asset pipeline bundling of the Cookie Consent JavaScript plugin (https://silktide.com/tools/cookie-consent).
+Rails asset pipeline bundling of the Cookie Consent JavaScript plugin (https://cookieconsent.insites.com).
 
 ## Installation
 
@@ -20,11 +20,15 @@ Or install it yourself as:
 
 In your application.js:
 
-    //= require cookieconsent
+    //= require cookieconsent.min
+
+In your application.css.scss:
+
+    *= require cookieconsent.min
 
 ## Usage
 
-https://silktide.com/tools/cookie-consent
+https://cookieconsent.insites.com/documentation/javascript-api
 
 ## Contributing
 
